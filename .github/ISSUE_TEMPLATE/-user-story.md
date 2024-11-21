@@ -1,5 +1,5 @@
 ---
-name: devops_capstone issue template
+name: " user-story"
 about: devops_capstone_issue
 title: ''
 labels: ''
